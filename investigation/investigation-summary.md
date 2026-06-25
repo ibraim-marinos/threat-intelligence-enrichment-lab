@@ -1,4 +1,4 @@
-# Indicator Summary
+# Investigation Summary
 
 ## Initial Indicators
 
