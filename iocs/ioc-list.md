@@ -2,6 +2,6 @@
 
 | Type | Value | Description |
 |------|-------|-------------|
-| IP Address | 185.234.247.91 | Remote IP observed during PowerShell download |
+| IP Address | 185.234.247.91 | Remote IP observed during the PowerShell download |
 | Domain | update-checker[.]net | Domain contacted during malicious activity |
-| SHA256 | 7b89bd1544... | SHA256 hash of the downloaded sample |
+| SHA256 | 7b89bd1544... | SHA256 hash of the downloaded malware sample |
