@@ -48,19 +48,26 @@ Threat intelligence was gathered from multiple public intelligence platforms and
 
 ```text
 Alert Detection
-        │
+      │
+      ▼
 IOC Extraction
-        │
+      │
+      ▼
 IP Reputation Analysis
-        │
+      │
+      ▼
 Domain Reputation Analysis
-        │
+      │
+      ▼
 File Hash Analysis
-        │
+      │
+      ▼
 Threat Intelligence Correlation
-        │
+      │
+      ▼
 Risk Assessment
-        │
+      │
+      ▼
 Final Verdict
 ```
 
@@ -157,23 +164,23 @@ threat-intelligence-enrichment-lab/
 
 # Related Documentation
 
-### Investigation Summary
+## Investigation Summary
 
 Contains a high-level summary of the investigation findings.
 
-➡️ investigation/investigation-summary.md
+➡️ **[Investigation Summary](investigation/investigation-summary.md)**
 
 ---
 
-### IOC List
+## IOC List
 
 Contains all Indicators of Compromise identified during the investigation.
 
-➡️ iocs/ioc-list.md
+➡️ **[IOC List](iocs/ioc-list.md)**
 
 ---
 
-### Investigation Screenshots
+## Investigation Screenshots
 
 Evidence collected during the investigation.
 
@@ -184,17 +191,25 @@ Evidence collected during the investigation.
 - VirusTotal Hash Analysis
 - MalwareBazaar Hash Lookup
 
-➡️ screenshots/
+➡️ **[Screenshots Folder](screenshots/)**
 
 ---
 
 # Full Investigation Report
 
-📄 **Download Full Investigation Report (PDF)**
+Click the link below to open the complete investigation report.
 
-➡️ [Threat Intelligence Enrichment Report](threat-intelligence-enrichment-lab.pdf)
+📄 **[Open the Full Investigation Report (PDF)](threat-intelligence-enrichment-lab.pdf)**
 
-The PDF contains the complete investigation, screenshots, analyst notes, IOC enrichment process, and final assessment.
+The report includes:
+
+- Complete investigation workflow
+- IOC enrichment process
+- Threat intelligence analysis
+- Evidence screenshots
+- Analyst assessment
+- Final risk assessment
+- Investigation conclusions
 
 ---
 
